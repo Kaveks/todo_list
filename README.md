@@ -21,7 +21,7 @@ A simple To-Do List app built with Jetpack Compose for managing daily tasks effi
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/todolist.git
+   git@github.com:Kaveks/todo_list.git
    ```
 2. Open the project in **Android Studio**.
 3. Sync Gradle files.
